@@ -1,0 +1,2 @@
+Tablero sobre incendios forestales en Argentina, elaborado en Power BI, donde se agregó un mapa de las provincias de Argentina con la ayuda de un archivo GeoJSON para las latitudes y longitudes, descargado en https://simplemaps.com/gis/country/ar
+Luego se cargó este archivo en https://mapshaper.org/ para editarlo y transformarlo al formato deseado, allí hay varios disponibles como GeoJSON, csv, TopoJson entre otros.
